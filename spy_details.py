@@ -1,6 +1,7 @@
-
-spy_name = 'Bond'
-spy_salutation = 'Dr.'
-spy_age = 23
-spy_rating=4.7
-random_variable = 34
+spy={
+    'name':'Bond',
+    'salutation':'Mr.',
+    'age':23,
+    'rating':4.7,
+    'is_online':True
+}
